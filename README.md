@@ -1,4 +1,6 @@
 # hello-world
-this is my tutorial repository 
-i like c# and the lanugages of the web
-i'm making these changes to be a more comprehensive developer
+
+
+I like c# and the languages of the web
+
+I'm making these changes to be a better developer
